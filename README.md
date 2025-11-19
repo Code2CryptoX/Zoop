@@ -10,3 +10,12 @@ https://t.me/Code2Crypto
 
 # 𝗧𝗛𝗘 𝗧𝗘𝗥𝗠𝗨𝗫 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗝𝗨𝗦𝗧 𝗖𝗢𝗣𝗬 𝗔𝗡𝗗 𝗣𝗔𝗦𝗧𝗘 𝗢𝗡 𝗧𝗘𝗥𝗠𝗨𝗫
 
+pkg update && pkg upgrade -y
+
+git clone https://github.com/Code2CryptoX/Zoop.git
+
+cd Zoop
+
+nano query.txt
+
+python main.py
