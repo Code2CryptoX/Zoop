@@ -19,3 +19,14 @@ cd Zoop
 nano query.txt
 
 python main.py
+
+
+# FEATURE'S 
+
+Auto Get Account Information
+Auto Check In Daily
+Auto Complete Task
+Auto Spin Daily
+Multi Accounts With Threads
+Proxy Support
+With Out Proxy Support
